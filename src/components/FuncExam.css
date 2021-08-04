@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(154, 231, 231);
+}
+.container{
+    background-color: darkorange;
+    width: 700px;
+    height: 300px;
+    border: 4px solid black;
+    margin-top: 150px;
+    margin-left: 500px;
+    padding: 60px;
+}
+div{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: cursive
+}
+#but{
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: cursive
+
+}
+#but:hover{
+    background-color: rgb(137, 145, 146);
+}
+h2{
+    font-size:40px;
+}
+p{
+    font-size: 23px;
+    font-weight: 700;
+    font-family: cursive
+}
+
+
+
+/* button{
+    border-radius: 20px;
+    padding-top: 10px;
+
+} */
